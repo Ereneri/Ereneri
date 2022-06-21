@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eren Erisgen</h1>
-<h3 align="center">A incoming Computer Science freshman at the University of Minnesota</h3>
+<h3 align="center">An incoming Computer Science freshman at the University of Minnesota</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereneri&label=Profile%20views&color=0e75b6&style=flat" alt="ereneri" /> </p>
 
 - 🔭 I’m currently working on **a collaborative todo list web app called OurTodos**
 
 - 🌱 I’m currently learning **Web programming using Python and Javascript via CS50w**
+
+- 📌 I'm currently located in **Minneapolis, Minnesota** 
+
+- 🔍 I'm currently looking for **Internships for the Summer of 2023**
 
 <p align="left">
 </p>

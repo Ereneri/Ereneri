@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Web programming using Python and Javascript**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

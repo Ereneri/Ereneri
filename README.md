@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eren Erisgen</h1>
+<h1 align="center">Howdy, I'm Eren Erisgen</h1>
 <h3 align="center">An incoming Computer Science freshman at the University of Minnesota</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereneri&label=Profile%20views&color=0e75b6&style=flat" alt="ereneri" /> </p>

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a collaborative todo list web app called OurTodos**
 
-- 🌱 I’m currently learning **Web programming using Python and Javascript via CS50w**
+- 🌱 I’m currently learning **CS50’s Introduction to Artificial Intelligence with Python**
 
 - 📌 I'm currently located in **Minneapolis, Minnesota** 
 

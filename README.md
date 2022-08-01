@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereneri&label=Profile%20views&color=0e75b6&style=flat" alt="ereneri" /> </p>
 
-- 🔭 I’m currently working on **a collaborative todo list web app called OurTodos**
+- 🔭 I’m currently working on **a mobile app to make removing photos easy and fun**
 
 - 🌱 I’m currently learning **CS50’s Introduction to Artificial Intelligence with Python**
 

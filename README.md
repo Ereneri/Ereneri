@@ -7,5 +7,4 @@
 
 - 📌 I'm currently located in **Minneapolis, Minnesota** 
 
-- 🔍 I'm currently looking for **Internships for the Summer of 2023**
 

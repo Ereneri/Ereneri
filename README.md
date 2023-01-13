@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereneri&label=Profile%20views&color=0e75b6&style=flat" alt="ereneri" /> </p>
 
-- 📚 I’m currently studying **Algorithms, Data Structures, Program Development, and Discrete Structures**
+- 📚 I’m currently studying **Machine Architecture and Organization, Advanced Programming Principles, and Linear Algebra**
 
 - 📌 I'm currently located in **Minneapolis, Minnesota** 
 

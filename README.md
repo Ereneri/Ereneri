@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereneri&label=Profile%20views&color=0e75b6&style=flat" alt="ereneri" /> </p>
 
-- 📚 I’m currently studying **Machine Architecture and Organization, Advanced Programming Principles, and Linear Algebra**
+- 💼 I'm currently at _Thrivent_ as a **Java Developer Intern**
 
+- 💡 I'm currently taking **CS50's Mobile App Development with React Native**
+<!-- - 📚 I’m currently studying **** -->
 - 📌 I'm currently located in **Minneapolis, Minnesota** 
 
 

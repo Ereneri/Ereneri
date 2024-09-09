@@ -5,7 +5,7 @@
 
 <!-- - 📚 I’m currently studying **Database Systems, Artificial Intelligence, and Operating Systems** -->
 💼 I'm currently at _The Bernard Group_ as a **Software Engineer**\
-🔭 I’m currently working on a marketplace for allow student to list UMN sports event tickets\
+🔭 I’m currently working on a marketplace to allow students to list UMN sports event tickets\
 🌱 I’m currently learning full-stack web development with a focus on Java, React, and AWS\
 📌 I'm currently located in Minneapolis, Minnesota
 

@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereneri&label=Profile%20views&color=0e75b6&style=flat" alt="ereneri" /> </p>
 
 <!-- - 📚 I’m currently studying **Database Systems, Artificial Intelligence, and Operating Systems** -->
-💼 I'm currently at _The Bernard Group_ as a **Software Engineer**\
-🔭 I’m currently working on a marketplace to allow students to list UMN sports event tickets\
+💼 I'm an incoming at **Software Engineer** _The Bernard Group_\
+🔭 I’m currently working on an iOS expense and budget tracking app\
 🌱 I’m currently learning full-stack web development with a focus on Java, React, and AWS\
 📌 I'm currently located in Minneapolis, Minnesota
 

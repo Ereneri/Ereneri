@@ -1,10 +1,11 @@
 <h1 align="center">Howdy 👋 I'm Eren Erisgen</h1>
-<h3 align="center">A Computer Science Senior at the University of Minnesota, CSE</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereneri&label=Profile%20views&color=0e75b6&style=flat" alt="ereneri" /> </p>
 
 <!-- - 📚 I’m currently studying **Database Systems, Artificial Intelligence, and Operating Systems** -->
-💼 I'm an incoming **Software Engineer** at _The Bernard Group_\
+💼 I'm an **Associate Software Engineer** at _The Bernard Group_\
+📚 Bachelor Of Science in Computer Science from the University of Minnesota, CSE\
 🔭 I’m currently working on an iOS expense and budget tracking app\
 🌱 I’m currently learning full-stack web development with a focus on Java, React, and AWS\
 📌 I'm currently located in Minneapolis, Minnesota
